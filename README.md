@@ -11,3 +11,12 @@ Striver’s SDE Sheet Challenge (summer 2023)
 
 ### ```Day 5 :```  [explanation PDF](https://github.com/jitanshuraut/Strivers-SDE-Sheet-Challenge/blob/main/DAY%205%20%E2%9C%85/day%205.pdf)
 
+### ```Day 6 :```  [explanation PDF](https://github.com/jitanshuraut/Strivers-SDE-Sheet-Challenge/blob/main/DAY%206%20%E2%9C%85/day%206.pdf)
+
+### ```Day 7 :```  [explanation PDF](https://github.com/jitanshuraut/Strivers-SDE-Sheet-Challenge/blob/main/DAY%207%20%E2%9C%85/day%207.pdf)
+
+### ```Day 8 :```  [explanation PDF](https://github.com/jitanshuraut/Strivers-SDE-Sheet-Challenge/blob/main/DAY%208%20%E2%9C%85/day%208.pdf)
+
+### ```Day 9 :```  [explanation PDF](https://github.com/jitanshuraut/Strivers-SDE-Sheet-Challenge/blob/main/DAY%209%20%E2%9C%85/day%209.pdf)
+
+### ```Day 10 :```  [explanation PDF](https://github.com/jitanshuraut/Strivers-SDE-Sheet-Challenge/blob/main/DAY%2010%20%E2%9C%85/day%2010.pdf)
